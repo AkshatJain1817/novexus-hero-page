@@ -275,11 +275,11 @@ img {
 
 .section-header .logo{
   display: block;
-  margin: 20px auto; /* Centers the image horizontally */
-  max-width: 250px;  /* Adjust as needed */
-  width: 100%;       /* Makes it responsive */
+  margin: 20px auto;
+  max-width: 250px; 
+  width: 100%;      
   height: auto;
-  border-radius: 8px; /* Optional: adds a slight border radius */
+  border-radius: 8px;
   object-fit: cover;
   animation: 4s spin ease forwards;
 }
